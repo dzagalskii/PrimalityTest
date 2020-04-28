@@ -1,1 +1,2 @@
-Algorithms for checking numbers for simplicity: Fermat primality test, Solovay–Strassen test, Miller–Rabin primality test.
+# Prime numbers
+Algorithms for checking numbers for simplicity: Fermat primality test, Solovayâ€“Strassen test, Millerâ€“Rabin primality test.
